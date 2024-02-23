@@ -1,0 +1,148 @@
+.div{
+    background-color: yellow;
+    display: flex;
+    justify-items: center;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
+}
+.img1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.img2{
+    margin-left: 20px;
+    margin-top: 25px; 
+}
+.p1{
+font-size: 15px;
+margin-top: 10px;
+margin-left: 20px;
+}
+.input1{
+width: 1000px;
+height: 30px;
+margin-top: 20px;
+margin-left: 20px;
+border-radius:  10px;
+   
+}
+.head1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: 20px;
+margin-top: 25px;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+  
+}
+.a1{
+    text-decoration: none;
+    color: blue;
+    margin-top: 20px;
+    font-weight: bolder;
+     
+}
+.a2{
+    text-decoration: none;
+    margin-top: 20px;
+    font-weight: bolder;
+    color: black;
+}
+.img3{
+    margin-left: -10px;
+    margin-right: 4px;
+    margin-top: 10px;
+}
+.img4{
+    margin-left: -10px;
+    margin-right: 4px;
+    margin-top: -5px;
+}
+.div1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.img5{
+    width: 123px;
+}
+.head2{
+ margin-left: 20px; 
+font-weight: 50px;   
+}
+.img6{
+    margin-left: 20px;
+}
+.head3{
+    font-weight: 50px;   
+}
+.div2{
+    display: flex;
+    gap: 520px;
+    margin-top: 0px; 
+    background-color: white;
+}
+.div3{
+    display: flex;
+    gap:730px ;
+    margin-top: 30px;
+}
+.div4{
+    display: flex;
+    gap: 520px;
+    margin-top: 10px; 
+    
+}
+.img8{
+    width: 1410px;
+    margin-top: 20px;
+}
+.div5{
+    display: flex;
+    gap: 10px;
+margin-left: 8px;
+margin-top: 20px;
+}
+.box2{
+margin-left: 20px;
+margin-right: 20px;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
